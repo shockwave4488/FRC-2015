@@ -27,6 +27,9 @@
 		<Item Name="Set Controls.vi" Type="VI" URL="../../Robot 2015/Set Controls.vi"/>
 		<Item Name="Set Axis.vi" Type="VI" URL="../../Robot 2015/Set Axis.vi"/>
 		<Item Name="Set Buttons.vi" Type="VI" URL="../../Robot 2015/Set Buttons.vi"/>
+		<Item Name="Xbox conversion.vi" Type="VI" URL="../../Controls/Xbox conversion.vi"/>
+		<Item Name="Axis (Xbox).ctl" Type="VI" URL="../../Controls/Axis (Xbox).ctl"/>
+		<Item Name="Buttons (Xbox).ctl" Type="VI" URL="../../Controls/Buttons (Xbox).ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
