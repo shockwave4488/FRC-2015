@@ -879,7 +879,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
-			<Item Name="Button Actions.ctl" Type="VI" URL="../../../../../../../FRC2015/Robot 2015/Button Actions.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -1570,7 +1569,6 @@ AddOutputFilter chunkFilter
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
 			<Item Name="Accel. Limit.vi" Type="VI" URL="../Drive Code/Accel. Limit.vi"/>
-			<Item Name="Button Actions.ctl" Type="VI" URL="../../../../../../../FRC2015/Robot 2015/Button Actions.ctl"/>
 			<Item Name="cartesianToPolar.vi" Type="VI" URL="../Drive Code/cartesianToPolar.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
