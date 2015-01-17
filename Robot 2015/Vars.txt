@@ -18,3 +18,9 @@ ArmD 0
 LiftP 0
 LiftI 0
 LiftD 0
+ArmLow 0
+ArmLoad 0
+ArmHigh 0
+LiftLow 0
+LiftHigh 0
+OutChannel 0
