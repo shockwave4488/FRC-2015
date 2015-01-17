@@ -8,3 +8,7 @@ LiftEncoderA 0
 LiftEncoderB 0
 ArmEncoderA 0
 ArmEncoderB 0
+LiftBotLimit 0
+LiftTopLimit 0
+ArmTopLimit 0
+ArmBotLimit 0 
