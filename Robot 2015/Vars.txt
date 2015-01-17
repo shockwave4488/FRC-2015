@@ -2,3 +2,9 @@ DriveLF 2
 DriveLR 0
 DriveRF 3
 DriveRR 1
+LiftChannel 0
+ArmChannel 0
+LiftEncoderA 0
+LiftEncoderB 0
+ArmEncoderA 0
+ArmEncoderB 0
