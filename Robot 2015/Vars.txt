@@ -22,5 +22,6 @@ ArmLow 0
 ArmLoad 0
 ArmHigh 0
 LiftLow 0
+PneumaticChannel 0
 LiftHigh 0
 OutChannel 0
