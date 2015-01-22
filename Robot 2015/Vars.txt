@@ -27,3 +27,5 @@ LiftHigh 0
 OutChannel 0
 DriveAccel 0.2
 DriveReduction 2
+LiftLimitLow 0
+LiftLimitHigh 20
