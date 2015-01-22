@@ -25,3 +25,5 @@ LiftLow 0
 PneumaticChannel 0
 LiftHigh 0
 OutChannel 0
+DriveAccel 0.2
+DriveReduction 2
