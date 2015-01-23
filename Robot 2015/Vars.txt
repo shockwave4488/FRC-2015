@@ -13,10 +13,8 @@ LiftTopLimit 0
 ArmTopLimit 0
 ArmBotLimit 0 
 ArmP 0
-ArmI 0
 ArmD 0
 LiftP 0
-LiftI 0
 LiftD 0
 ArmLow 0
 ArmLoad 0
@@ -29,3 +27,7 @@ DriveAccel 0.2
 DriveReduction 2
 LiftLimitLow 0
 LiftLimitHigh 20
+ArmLimitLow 0
+ArmLimitHigh 1
+ArmLow 0
+ArmHigh 1
