@@ -31,3 +31,4 @@ ArmLimitLow 0
 ArmLimitHigh 1
 ArmLow 0
 ArmHigh 1
+ServoChannel 4
