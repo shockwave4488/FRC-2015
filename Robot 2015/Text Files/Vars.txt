@@ -1,13 +1,3 @@
-DriveLF 2
-DriveLR 0
-DriveRF 3
-DriveRR 1
-LiftChannel 0
-ArmChannel 0
-LiftEncoderA 0
-LiftEncoderB 0
-ArmEncoderA 0
-ArmEncoderB 0
 LiftBotLimit 0
 LiftTopLimit 0
 ArmTopLimit 0
@@ -20,7 +10,6 @@ ArmLow 0
 ArmLoad 0
 ArmHigh 0
 LiftLow 0
-PneumaticChannel 0
 LiftHigh 0
 OutChannel 0
 DriveAccel 0.2
@@ -31,4 +20,3 @@ ArmLimitLow 0
 ArmLimitHigh 1
 ArmLow 0
 ArmHigh 1
-ServoChannel 4
