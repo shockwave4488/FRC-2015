@@ -11,3 +11,4 @@ ArmEncoderA 0
 ArmEncoderB 0
 PneumaticChannel 0
 OutChannel 0
+BeamChannel 0
