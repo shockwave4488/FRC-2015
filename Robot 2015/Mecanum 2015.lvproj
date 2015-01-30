@@ -923,19 +923,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Controls/SRE Enum.ctl"/>
-			<Item Name="Gyro controls.vi" Type="VI" URL="../Controls/Gyro controls.vi"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Sensors and Actuators/Sensors/SRE Enum.ctl"/>
-			<Item Name="Read Number from String Array.vi" Type="VI" URL="../Sensors and Actuators/Text Variable VIs/Read Number from String Array.vi"/>
-			<Item Name="Read Number Variable.vi" Type="VI" URL="../Sensors and Actuators/Text Variable VIs/Read Number Variable.vi"/>
-			<Item Name="Robot Global Data.vi" Type="VI" URL="../Sensors and Actuators/Support Code/Robot Global Data.vi"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Sensors and Actuators/Actuators/SRE Enum.ctl"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Sensors and Actuators/Unused/SRE Enum.ctl"/>
-			<Item Name="Intake Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Intake Control.vi"/>
-			<Item Name="Arm Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Arm Control.vi"/>
-			<Item Name="Lift Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Lift Control.vi"/>
-			<Item Name="Limit Switch Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Limit Switch Control.vi"/>
-			<Item Name="Read Variable.vi" Type="VI" URL="../Sensors and Actuators/Text Variable VIs/Read Variable.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -1724,14 +1711,9 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
-			<Item Name="Arm Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Arm Control.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Gyro controls.vi" Type="VI" URL="../Controls/Gyro controls.vi"/>
-			<Item Name="Intake Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Intake Control.vi"/>
-			<Item Name="Lift Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Lift Control.vi"/>
-			<Item Name="Limit Switch Control.vi" Type="VI" URL="../Sensors and Actuators/Unused/Limit Switch Control.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1744,14 +1726,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Read Number from String Array.vi" Type="VI" URL="../Sensors and Actuators/Text Variable VIs/Read Number from String Array.vi"/>
-			<Item Name="Read Number Variable.vi" Type="VI" URL="../Sensors and Actuators/Text Variable VIs/Read Number Variable.vi"/>
-			<Item Name="Read Variable.vi" Type="VI" URL="../Sensors and Actuators/Text Variable VIs/Read Variable.vi"/>
-			<Item Name="Robot Global Data.vi" Type="VI" URL="../Sensors and Actuators/Support Code/Robot Global Data.vi"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Controls/SRE Enum.ctl"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Sensors and Actuators/Actuators/SRE Enum.ctl"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Sensors and Actuators/Sensors/SRE Enum.ctl"/>
-			<Item Name="SRE Enum.ctl" Type="VI" URL="../Sensors and Actuators/Unused/SRE Enum.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
