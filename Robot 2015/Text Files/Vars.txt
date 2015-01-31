@@ -21,3 +21,4 @@ ArmLimitHigh 1
 ArmLow 0
 ArmHigh 1
 LiftPositionTolerance 0
+DeadZoneLimit 0.05
