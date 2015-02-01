@@ -1,7 +1,3 @@
-LiftBotLimit 0
-LiftTopLimit 0
-ArmTopLimit 0
-ArmBotLimit 0 
 ArmP 0
 ArmD 0
 LiftP 0

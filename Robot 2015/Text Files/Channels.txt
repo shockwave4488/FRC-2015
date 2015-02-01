@@ -5,10 +5,12 @@ DriveRF 3
 DriveRR 1
 LiftChannel 5
 ArmChannel 7
-LiftEncoderA -1
-LiftEncoderB -1
-ArmEncoderA -1
-ArmEncoderB 1
-PneumaticChannel -1
+LiftEncoderA 2
+LiftEncoderB 2
+ArmEncoderA 2
+ArmEncoderB 2
+PneumaticChannel 0
 OutChannel 4
 BeamChannel -1
+LiftBotLimit 0
+LiftTopLimit 2
