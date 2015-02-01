@@ -19,6 +19,8 @@ LiftLimitHigh 20
 ArmLimitLow 0
 ArmLimitHigh 1
 ArmLow 0
+ArmMiddle 0.5
 ArmHigh 1
 LiftPositionTolerance 0
 DeadZoneLimit 0.05
+OutputSpeed 0.3

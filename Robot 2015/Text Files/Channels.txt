@@ -1,14 +1,14 @@
-ServoChannel 4
+ServoChannel 6
 DriveLF 2
 DriveLR 0
 DriveRF 3
 DriveRR 1
 LiftChannel 5
-ArmChannel 6
+ArmChannel 7
 LiftEncoderA -1
 LiftEncoderB -1
 ArmEncoderA -1
 ArmEncoderB 1
 PneumaticChannel -1
-OutChannel 7
+OutChannel 4
 BeamChannel -1
