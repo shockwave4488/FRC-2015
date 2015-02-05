@@ -20,3 +20,4 @@ ArmHigh 1
 LiftPositionTolerance 0
 DeadZoneLimit 0.05
 OutputSpeed 0.3
+ArmOffset 0.23
