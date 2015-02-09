@@ -1,6 +1,6 @@
 ArmP 0
 ArmD 0
-LiftP 0
+LiftP 8
 LiftD 0
 ArmLow 0
 ArmLoad 0
