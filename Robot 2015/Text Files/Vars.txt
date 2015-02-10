@@ -2,10 +2,8 @@ ArmP 0
 ArmD 0
 LiftP 8
 LiftD 0
-ArmLow 0
-ArmLoad 0
-ArmHigh 0
 LiftLow 0.062
+LiftLowLow 0.025
 LiftMiddle 0.12
 LiftHigh 0.41
 OutChannel 0
@@ -13,11 +11,11 @@ DriveAccel 0.2
 DriveReduction 2
 LiftLimitLow 0.02
 LiftLimitHigh 0.5
-ArmLimitLow 0.5
-ArmLimitHigh 0.1
-ArmLow 0.45
+ArmLimitLow 0.09
+ArmLimitHigh 0.5
+ArmLow 0.475
 ArmMiddle 0.17
-ArmHigh 0.12
+ArmHigh 0.08
 LiftPositionTolerance 0.04
 DeadZoneLimit 0.05
 OutputSpeed -0.3
