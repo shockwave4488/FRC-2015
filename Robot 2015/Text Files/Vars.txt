@@ -1,4 +1,4 @@
-ArmP 0
+ArmP 3
 ArmD 0
 LiftP 8
 LiftD 0
@@ -8,7 +8,7 @@ LiftMiddle 0.12
 LiftHigh 0.41
 OutChannel 0
 DriveAccel 0.2
-DriveReduction 2
+DriveReduction 0.5
 LiftLimitLow 0.02
 LiftLimitHigh 0.5
 ArmLimitLow 0.09
