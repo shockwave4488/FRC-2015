@@ -210,7 +210,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Support/Prepare Joystick Data for Displays.vi"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Support/Adjust Dashboard Window.vi"/>
 		</Item>
