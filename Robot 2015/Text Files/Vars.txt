@@ -15,6 +15,7 @@ ArmLimitLow 0.32
 ArmLimitHigh 0.78
 ArmLow 0.715
 ArmMiddle 0.418
+ArmNoodle 0.55
 ArmHigh 0.317
 LiftPositionTolerance 0.04
 DeadZoneLimit 0.05
