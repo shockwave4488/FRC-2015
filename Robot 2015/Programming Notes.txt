@@ -1,0 +1,4 @@
+Change Fleep Flop to actually make sense
+Remove Interup from Periodic tasks
+Set defaults in Globals to safe positions
+Change Arm and Lift states to strict type defs
