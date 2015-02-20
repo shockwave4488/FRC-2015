@@ -19,6 +19,6 @@ ArmNoodle 0.536
 ArmHigh 0.18
 LiftPositionTolerance 0.04
 DeadZoneLimit 0.05
-OutputSpeed -0.3
+OutputSpeed 0.3
 ArmOffset 0.23
 ArmPositionTolerance 0.05
