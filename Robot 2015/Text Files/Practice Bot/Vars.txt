@@ -23,3 +23,5 @@ DeadZoneLimit 0.05
 OutputSpeed 0.3
 ArmOffset 0.23
 ArmPositionTolerance 0.05
+SensorDeadBand 0.2
+MotorDeadBand 0.25
