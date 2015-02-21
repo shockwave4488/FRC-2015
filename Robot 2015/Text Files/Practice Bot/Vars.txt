@@ -3,7 +3,7 @@ ArmP 5.5
 ArmD 0
 LiftP 8
 LiftD 0
-LiftLow 0.062
+LiftLow 0.060
 LiftLowLow 0.025
 LiftMiddle 0.12
 LiftHigh 0.41
@@ -14,7 +14,7 @@ LiftLimitLow 0.02
 LiftLimitHigh 0.5
 ArmLimitLow 0.32
 ArmLimitHigh 0.78
-ArmLow 0.755
+ArmLow 0.76
 ArmMiddle 0.418
 ArmNoodle 0.625
 ArmHigh 0.317
@@ -23,5 +23,5 @@ DeadZoneLimit 0.05
 OutputSpeed 0.3
 ArmOffset 0.23
 ArmPositionTolerance 0.05
-SensorDeadBand 0.2
-MotorDeadBand 0.25
+SensorDeadBand 0.11
+MotorDeadBand 0.35
