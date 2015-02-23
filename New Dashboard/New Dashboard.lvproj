@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Support" Type="Folder">
 			<Item Name="App EXE.ico" Type="Document" URL="../App EXE.ico"/>
-			<Item Name="Parse Digital Module.vi" Type="VI" URL="../Parse Digital Module.vi"/>
+			<Item Name="Parse Digital Module.vi" Type="VI" URL="../Support/Parse Digital Module.vi"/>
 			<Item Name="Save DB Images.vi" Type="VI" URL="../Save DB Images.vi"/>
 			<Item Name="Receive DS Packet.vi" Type="VI" URL="../Receive DS Packet.vi"/>
 			<Item Name="Decode Status Byte.vi" Type="VI" URL="../Decode Status Byte.vi"/>
@@ -199,6 +199,7 @@
 				<Item Name="WPI_DashboardAdd File Length.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardAdd File Length.vi"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
+				<Item Name="WPI_DriverStationDigitalData.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationDigitalData.ctl"/>
 			</Item>
 			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Support/Interpolate RGB Color.vi"/>
 			<Item Name="Playback Controls.vi" Type="VI" URL="../Support/Playback Controls.vi"/>
