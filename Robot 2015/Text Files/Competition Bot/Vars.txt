@@ -6,6 +6,7 @@ LiftLow 0.062
 LiftLowLow 0.026
 LiftMiddle 0.125
 LiftHigh 0.41
+LiftSlow 0.08
 OutChannel 0
 DriveAccel 0.2
 DriveReduction 0.5
